@@ -1,5 +1,4 @@
 # cs224n-project
-analysing news data football(talksports) basketball(nba)
 Natural Language Processing (NLP) project
 Analysing football and basketball news articles.
 
